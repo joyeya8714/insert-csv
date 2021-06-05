@@ -27,6 +27,7 @@
 </VirtualHost>
 
 ```
+* renommer `public/_htaccess` en `public/.htaccess`
 * Redémarrer les DNS
 * accéder à cette page : http://insert-csv.test/ 
 
